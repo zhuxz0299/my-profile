@@ -18,21 +18,19 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/my-profile/cv/";
           },
-        },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+        },{id: "news-co-first-authored-paper-spaceexit-enabling-efficient-adaptive-computing-in-space-with-early-exits-accepted-to-2025-usenix-annual-technical-conference-usenix-atc-25",
+          title: 'Co-first authored paper SpaceExit: Enabling Efficient Adaptive Computing in Space with Early Exits...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-paper-spaceexit-enabling-efficient-adaptive-computing-in-space-with-early-exits-received-artifact-available-artifact-functional-and-artifact-reproduced-badges-at-usenix-atc-25-artifact-evaluation",
+          title: 'Paper SpaceExit: Enabling Efficient Adaptive Computing in Space with Early Exits received Artifact...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/my-profile/news/announcement_2.html";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-attended-cncc-china-national-computer-congress",
+          title: 'Attended CNCC (China National Computer Congress).',
           description: "",
           section: "News",},{
         id: 'social-email',
