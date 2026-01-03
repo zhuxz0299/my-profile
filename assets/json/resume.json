@@ -5,7 +5,7 @@
     "image": "",
     "email": "zhuxiaozhi@sjtu.edu.cn",
     "url": "https://zhuxz0299.github.io/my-profile/",
-    "summary": "Master student at Shanghai Jiao Tong University, interested in Multi-modal Neural Networks, Distributed Computing, and System Optimization.",
+    "summary": "Master student at Shanghai Jiao Tong University, interested in Distributed Computing and System Optimization.",
     "location": {
       "address": "Shanghai Jiao Tong University",
       "postalCode": "200240",
@@ -38,6 +38,13 @@
   ],
   "work": [
     {
+      "name": "National Key Research Project (Tsinghua Univ.)",
+      "position": "Researcher/Developer",
+      "startDate": "2025-05-01",
+      "endDate": "Present",
+      "summary": "Research on resource management in satellite constellation systems."
+    },
+    {
       "name": "SpaceExit Project",
       "position": "Researcher/Developer",
       "startDate": "2023-11-01",
@@ -57,25 +64,26 @@
       "title": "ACM SIGMETRIC SRC Gold Medal",
       "date": "2023",
       "awarder": "ACM",
-      "summary": "First Place"
+      "summary": "First Place. Awarded for the project MMBench. Selected from undergraduate researchers worldwide.",
+      "url": "https://www.sigmetrics.org/sigmetrics2023/student_activities.html"
     },
     {
       "title": "Huatai Securities Technology Scholarship",
       "date": "2024",
       "awarder": "SJTU",
-      "summary": "Top 10%"
+      "summary": "Top 10%. Awarded to students with outstanding academic performance and technological innovation."
     },
     {
       "title": "Huawei Scholarship",
       "date": "2023",
       "awarder": "Huawei",
-      "summary": "Top 10%"
+      "summary": "Top 10%. Recognizing excellence in academic achievement and potential in ICT field."
     },
     {
       "title": "Pan Wenyuan Scholarship",
       "date": "2022",
       "awarder": "SJTU",
-      "summary": "Top 10%"
+      "summary": "Top 10%. Awarded to outstanding undergraduate students in EE and CS departments."
     },
     {
       "title": "Zhiyuan Honor Scholarship",
@@ -102,7 +110,7 @@
     {
       "name": "Research Interests",
       "level": "Advanced",
-      "keywords": ["Multi-modal Neural Networks", "Distributed Computing", "System Optimization"]
+      "keywords": ["Distributed Computing", "System Optimization"]
     },
     {
       "name": "Languages",
