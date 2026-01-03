@@ -14,7 +14,7 @@ announcements:
 
 ---
 
-I am currently a Master student in Computer Science and Technology at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), starting from 2025. I previously obtained my Bachelor's degree (Honor) from the same university in 2025, where I ranked 5/102 with a score of 93.53/100.
+I am currently a Master student in Computer Science and Technology at Shanghai Jiao Tong University, starting from 2025. I previously obtained my Bachelor's degree (Honor) from the same university in 2025, where I ranked 5/102 with a score of 93.53/100.
 
 My research interests include **Distributed Computing** and **System Optimization**.
 
