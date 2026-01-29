@@ -40,6 +40,13 @@ ninja.data = [{
           title: 'Attended CNCC (China National Computer Congress).',
           description: "",
           section: "News",},{
+        id: 'social-cv',
+        title: 'CV',
+        section: 'Socials',
+        handler: () => {
+          window.open("/my-profile/assets/pdf/Xiaozhi_Zhu_Resume.pdf", "_blank");
+        },
+      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
